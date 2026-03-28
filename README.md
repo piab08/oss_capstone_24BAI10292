@@ -4,31 +4,35 @@ Open Source Audit — Capstone Project
 
 This project is a part of the Open Source Software course. In this project, concepts related to open-source software are explored. Python is considered a case study for this project. In this project, concepts are related to the practical implementation of open-source software with Linux and shell scripting.
 
+
 ## Student Details
 
-Name: Pia Anoop B
-Registration Number: 24BAI10292
-Course: Open Source Software
+* Name: Pia Anoop B
+* Registration Number: 24BAI10292
+* Course: Open Source Software
+
 
 ## About the Project
 
 During this project, the following concepts related to open-source software are explored:
 
-Origin and philosophy of open-source software
-Licensing of Python (PSF License)
-Open-source ecosystem and community contributions
-Practical implementation of Python with Linux
+* Origin and philosophy of open-source software
+* Licensing of Python (PSF License)
+* Open-source ecosystem and community contributions
+* Practical implementation of Python with Linux
 
 Multiple shell scripts are also created during this project to understand the implementation of open-source software.
+
+---
 
 ## Project Sections
 
 ### Part A — Origin & Philosophy
 
-Studied the origin of Python
-Studied the philosophy of open-source software
-Studied the license of Python (PSF License)
-Studied the ethical use of open-source software
+* Studied the origin of Python
+* Studied the philosophy of open-source software
+* Studied the license of Python (PSF License)
+* Studied the ethical use of open-source software
 
 ### Part B — Linux Footprint
 
@@ -47,8 +51,6 @@ Studied the ethical use of open-source software
 * Compare Python with MATLAB
 * Analyze cost, security, flexibility, and support
 * Provide a personal conclusion
-
----
 
 ## Shell Scripts
 
@@ -72,7 +74,6 @@ This script will read a log file and count the number of occurrences of a given 
 
 This script will generate a personalized open-source manifesto based on user input.
 
----
 
 ## How to Run the Scripts
 
@@ -93,9 +94,8 @@ chmod +x script5.sh
 ./script5.sh
 ```
 
----
 
-What I Learned
+## What I Learned
 
 * Basics of open-source philosophy and licensing
 * Real-world use of Linux commands
@@ -103,13 +103,10 @@ What I Learned
 * Real-world software systems
 * Importance of community in software development
 
----
-
 ## Conclusion
 
 This project has enabled me to know how open-source software works both theoretically and practically. It has also enhanced my knowledge of Linux and shell scripting, which are important for real-world software systems.
 
----
 
 ## Repository Contents
 
@@ -117,6 +114,4 @@ This project has enabled me to know how open-source software works both theoreti
 * Shell Scripts (script1.sh to script5.sh)
 * Screenshots of Output
 
----
-
-## Acknowledgment
+Thank you!
